@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <h1 align="center">Hola 🙋‍♂️, Soy 👇</h1>
 </div>
@@ -26,7 +27,7 @@
 
 <h3>Arquitecturas | Frameworks | Otros<h3>
 
-| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/laravel-icon.png" alt="laravel png" width="32"> Laravel | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="laravel png" width="24"> Spring Boot/Spring | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="laravel png" width="24"> NodeJS | <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/database-cloud-icon.png" alt="sql png" width="24"> SQL
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/laravel-icon.png" alt="laravel png" width="32"> Laravel | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="laravel png" width="24"> Spring Boot/Spring | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="laravel png" width="24"> NodeJS | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" alt="sql png" width="40"> SQL
 |---|---|---|---|
 
 <h4>Aprendiendo</h4>
@@ -36,5 +37,5 @@
 
 <h3>Herramientas o Sistemas Operativos<h3>
 
-| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="docker png" width="40"> Docker | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" alt="github png" width="40"> GitHub | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" alt="git png" width="40"> Git | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linux-icon.png" alt="linux png" width="40"> Linux | 
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="docker png" width="40"> Docker | <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github png" width="56"> GitHub | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" alt="git png" width="40"> Git | <img src="https://img.icons8.com/color/96/linux--v1.png" width="60"> Linux | 
 |---|---|---|---|
