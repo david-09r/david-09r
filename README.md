@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**david-09r/david-09r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1 align="center">Hola 🙋‍♂️, Soy 👇</h1>
+</div>
+<img src="https://imgur.com/ZeG278k.png">
 
-Here are some ideas to get you started:
+<h2>Sobre mi</h2>
+<p>Actualmente, me dedico a la programación en tiempo completo en L'avenir SAS, en el cual mi rol específico es Senior Back-end, administrador de servidores y contenedores Docker. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Soy entusiasta a la tecnología nuevo 💻, como también a las antiguas. 💽
+ - Actualmente, estoy aprendiendo algunas antiguas y nuevas tecnologías, software, lenguajes, entre otras.
+ - Me encanta resolver problemas 👩‍💻 y arreglar bugs 🐞, lo siento interesante, entretenido y satisfactorio.
+<p>Me puedes contactar por mi LinkedIn encontrado en la descripción.</p>
+
+<h2>Mi Stack de desarrollo</h2>
+<h3>Lenguajes de Programación</h3>
+
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="html logo" width="24"> HTML | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="CSS logo" width="24"> CSS | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" alt="javascript logo" width="24"> Javascript | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/php-programming-language-icon.png" alt="php logo" width="32"> PHP | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" alt="java logo" width="32"> Java |
+|---|---|---|---|---|
+
+
+<h4>Aprendiendo</h4>
+
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.png" alt="java logo" width="32">&nbsp; Typescript |
+|---|
+
+<h3>Arquitecturas | Frameworks | Otros<h3>
+
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/laravel-icon.png" alt="laravel png" width="32"> Laravel | <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="laravel png" width="24"> Spring Boot/Spring | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="laravel png" width="24"> NodeJS | <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/database-cloud-icon.png" alt="sql png" width="24"> SQL
+|---|---|---|---|
+
+<h4>Aprendiendo</h4>
+
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png" alt="java logo" width="32">&nbsp; Angular|
+|---|
+
+<h3>Herramientas o Sistemas Operativos<h3>
+
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="docker png" width="40"> Docker | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" alt="github png" width="40"> GitHub | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" alt="git png" width="40"> Git | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linux-icon.png" alt="linux png" width="40"> Linux | 
+|---|---|---|---|
